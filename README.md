@@ -61,6 +61,8 @@
     </a>
 </p>
 
+![snake gif](https://github.com/Codingnaveen46/Codingnaveen46/blob/output/github-snake-dark.svg)
+
 ---
 
 <h3 align="center">✨ Let's Build Something Awesome Together! ✨</h3>
