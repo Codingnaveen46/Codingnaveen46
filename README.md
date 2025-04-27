@@ -90,6 +90,10 @@ const naveen = {
   ![Snake animation](https://github.com/Codingnaveen46/Codingnaveen46/blob/output/github-snake-dark.svg)
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Codingnaveen46&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
 <!-- Visit Counter -->
 <div align="center">
   
