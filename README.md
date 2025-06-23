@@ -19,7 +19,7 @@
 ```javascript
 const naveen = {
   location: "India",
-  roles: ["QA Engineer", "Developer", "Tech Enthusiast"],
+  roles: ["Software Development Engineer In Test", "Developer", "Tech Enthusiast"],
   skills: {
     testing: ["Automation", "API Testing", "Performance Testing"],
     development: ["ReactJS", "NodeJS", "JavaScript"],
