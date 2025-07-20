@@ -26,13 +26,13 @@ const naveen = {
     tools: ["Playwright", "Selenium", "Git", "Postman"],
     os: ["Ubuntu", "Linux", "Windows"]
   },
-  currentFocus: "Mastering DSA & Full Stack QA",
+  currentFocus: "Mastering DSA & Test Engineer",
   hobbies: ["BGMI gaming", "Linux command exploration", "Continuous learning"],
   challenge: "Learning something new every single day"
 };
 ```
 
-- 🌱 I'm passionate about **Full Stack QA** and constantly enhancing my **DSA** skills
+- 🌱 I'm passionate about **Software Development Engineer In Test** and constantly enhancing my **DSA** skills
 - 💻 I enjoy development with **React** and exploring new **QA automation** frameworks
 - 🐧 Ubuntu user who loves discovering new Linux commands and terminal tricks
 - 🎮 When not coding, you'll find me playing BGMI or exploring tech tutorials
