@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=CA6BF7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen;Full+Stack+QA+Engineer;Tech+Explorer+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=CA6BF7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen;Software +Test+Engineer;Tech+Explorer+%26+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Software Development Engineer In Test | Developer | Linux Enthusiast | Tech Explorer 🚀</h3>
