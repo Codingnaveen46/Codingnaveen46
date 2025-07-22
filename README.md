@@ -32,7 +32,7 @@ const naveen = {
 };
 ```
 
-- 🌱 I'm passionate about **Software Development Engineer In Test** and constantly enhancing my **DSA** skills
+- 🌱 I'm a **Software Development Engineer In Test** and constantly enhancing my **DSA** skills
 - 💻 I enjoy development with **React** and exploring new **QA automation** frameworks
 - 🐧 Ubuntu user who loves discovering new Linux commands and terminal tricks
 - 🎮 When not coding, you'll find me playing BGMI or exploring tech tutorials
