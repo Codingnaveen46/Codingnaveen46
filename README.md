@@ -5,6 +5,10 @@
 <h3 align="center">🚀 Software Development Engineer In Test | Developer | Linux Enthusiast | Tech Explorer 🚀</h3>
 
 <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lucXdhOHM2aWh5OWtwNTlremx1MnAweWVvYXdzcHQxMHQ5eHRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="350" alt="coding gif">
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=codingnaveen46&label=Profile%20Views&color=blueviolet&style=flat" alt="codingnaveen46" />
 </div>
 
