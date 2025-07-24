@@ -10,28 +10,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif">
-</div>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## About Me 💫
-
-```javascript
-const naveen = {
-  location: "India",
-  roles: ["Software Development Engineer In Test", "Developer", "Tech Enthusiast"],
-  skills: {
-    testing: ["Automation", "API Testing", "Performance Testing"],
-    development: ["ReactJS", "NodeJS", "JavaScript"],
-    tools: ["Playwright", "Selenium", "Git", "Postman"],
-    os: ["Ubuntu", "Linux", "Windows"]
-  },
-  currentFocus: "Mastering DSA & Test Engineer",
-  hobbies: ["BGMI gaming", "Linux command exploration", "Continuous learning"],
-  challenge: "Learning something new every single day"
-};
-```
-
 - 🌱 I'm a **Software Development Engineer In Test** and constantly enhancing my **DSA** skills
 - 💻 I enjoy development with **React** and exploring new **QA automation** frameworks
 - 🐧 Ubuntu user who loves discovering new Linux commands and terminal tricks
@@ -39,25 +21,74 @@ const naveen = {
 - 🚀 I believe in continuous learning and staying ahead of emerging technologies
 - 👨‍💻 Always open to collaborate on innovative projects and automation solutions
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codingnaveen46&theme=aura&hide_border=true&include_all_commits=true&count_private=true,&rank_icon=github" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codingnaveen46&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingnaveen46&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithnaveen_46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveenreddy64/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AstheticcoderYT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenreddy4411@gmail.com) 
+  
+    
+## 📊 GitHub Stats:    
+    
+<div align="left">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codingnaveen46&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codingnaveen46&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codingnaveen46&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codingnaveen46&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Codingnaveen46&theme=radical&utcOffset=8">
 </div>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="left">
+<img height="169em" width="400px"  src="https://github-readme-stats.vercel.app/api?username=Codingnaveen46&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Codingnaveen46&theme=radical">
+</div>
+
+# 🏆 Trophies 
+
+<div align="left">
+<img src="https://github-trophies.vercel.app/?username=Codingnaveen46&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+<!-- ## :zap: My LeetCode Stats 📊
+<h3 align="left">Leetcode Stats:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/coding_naveen?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
+    </td> 
+  </tr>
+</table>
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
 
 <!-- Certification -->
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/zDPzgrQvRJuajxFbbmXUiw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zDPzgrQvRJuajxFbbmXUiw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>07/20/2025</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fbadgr.com%2Fpublic%2Fassertions%2FzDPzgrQvRJuajxFbbmXUiw" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;" aria-label="Verify (opens in new window)">VERIFY</a></blockquote>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/zDPzgrQvRJuajxFbbmXUiw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zDPzgrQvRJuajxFbbmXUiw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals </p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;"> <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fbadgr.com%2Fpublic%2Fassertions%2FzDPzgrQvRJuajxFbbmXUiw" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;" aria-label="Verify (opens in new window)">VERIFY</a></blockquote>
+      </td>
+      <td align="center">
+        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" width="120" height="120">
+        <br><strong>Relational Database</strong>
+        <br><strong>freeCodeCamp</strong>
+        <br><a href="https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/relational-database-v8">VERIFY</a>
+      </td>
+      <td align="center">
+        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" width="120" height="120">
+        <br><strong>JavaScript Algorithms</strong>
+        <br><strong>freeCodeCamp</strong>
+        <br><a href="https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/javascript-algorithms-and-data-structures">VERIFY</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Tech Stack -->
+
+<!-- ## 💻 Tech Stack ⚡ -->
+## 💻 Tech Stack ⚡
 <div align="center">
   
-## 💻 Tech Stack ⚡
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -83,24 +114,11 @@ const naveen = {
 
 </div>
 
-<!-- Social connections -->
-<div align="center">
-
-## 🌐 Connect with Me 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenreddy64/) 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/Codingnaveen46)
-
-</div>
-
 <!-- Snake Animation -->
-<div align="center">
+<div align="left">
     
   ![Snake animation](https://github.com/Codingnaveen46/Codingnaveen46/blob/output/github-snake-dark.svg)
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Codingnaveen46&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 
 <!-- Visit Counter -->
 <div align="center">
