@@ -5,7 +5,8 @@
 <h3 align="center">🚀 Software Development Engineer In Test | Developer | Linux Enthusiast | Tech Explorer 🚀</h3>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lucXdhOHM2aWh5OWtwNTlremx1MnAweWVvYXdzcHQxMHQ5eHRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="350" alt="coding gif">
+  <img src="https://github.com/Codingnaveen46/github-profile-assets/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png">
+  
 </div>
 
 <div align="center">
