@@ -85,7 +85,21 @@
         <br><strong>freeCodeCamp</strong>
         <br><a href="https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/javascript-algorithms-and-data-structures">VERIFY</a>
       </td>
-    </tr>
+           <td align="center">
+  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="120" height="120">
+  <br><strong>JavaScript</strong>
+  <br><strong>HackerRank</strong>
+  <br><a href="https://www.hackerrank.com/certificates/6f7a50949021">VERIFY</a>
+</td>  
+
+<td align="center">
+  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="120" height="120">
+  <br><strong>Problem Solving </strong>
+  <br><strong>HackerRank</strong>
+  <br><a href="https://www.hackerrank.com/certificates/4517f7d5896d">VERIFY</a>
+</td>
+    </tr>     
+
   </table>
 </div>
 
