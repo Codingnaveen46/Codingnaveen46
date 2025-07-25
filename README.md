@@ -35,7 +35,7 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codingnaveen46&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codingnaveen46&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codingnaveen46&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingnaveen46&layout=compact&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingnaveen46&layout=compact&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Codingnaveen46&theme=radical&utcOffset=8">
 </div>
 
