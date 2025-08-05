@@ -41,7 +41,7 @@
 </div>
 
 <div align="left">
-  <img height="169em" width="400px" src="https://github-readme-stats-chi-eight-35.vercel.app/api?username=Codingnaveen46&count_private=true&include_all_commits=true&cache_seconds=60&theme=radical&show_icons=true&hide_border=true&v=2&ts=1690000000">
+  <img height="169em" width="400px" src="https://github-readme-stats-chi-eight-35.vercel.app/api?username=Codingnaveen46&count_private=true&include_all_commits=true&cache_seconds=01&theme=radical&show_icons=true&hide_border=true&v=2&ts=1690000000">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Codingnaveen46&theme=radical">
 </div>
 
