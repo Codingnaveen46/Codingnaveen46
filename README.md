@@ -1,148 +1,126 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=CA6BF7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen;Software+Test+Engineer;Tech+Explorer+%26+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=CA6BF7&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen;Software+Engineer;Building+AI+%26+Developer+Tools;Creator+of+nodemonk" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Software Development Engineer In Test | Developer | Linux Enthusiast | Tech Explorer 🚀</h3>
+<h3 align="center">🚀 Software Engineer | AI & Developer Tools | Automation | Open Source 🚀</h3>
 
 <div align="center">
-  <img src="https://github.com/Codingnaveen46/github-profile-assets/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png">
-  
+<img src="https://komarev.com/ghpvc/?username=codingnaveen46&label=Profile%20Views&color=blueviolet&style=flat" alt="codingnaveen46" />
+<a href="https://github.com/Codingnaveen46"><img src="https://img.shields.io/github/followers/Codingnaveen46?label=Follow&style=flat&logo=github&color=blueviolet" alt="Follow" /></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codingnaveen46&label=Profile%20Views&color=blueviolet&style=flat" alt="codingnaveen46" />
-</div>
+<p align="center">
+<img width="420" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
 
-<br>
+## 🌟 Featured Open Source Project
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+<tr>
+<td>
+
+### [nodemonk](https://github.com/Codingnaveen46/nodemonk) 🧠⚡
+
+**Turn any codebase, docs or data corpus into a queryable knowledge graph.**
+
+[![Stars](https://img.shields.io/github/stars/Codingnaveen46/nodemonk?style=flat-square&logo=github)](https://github.com/Codingnaveen46/nodemonk/stargazers)
+[![License](https://img.shields.io/github/license/Codingnaveen46/nodemonk?style=flat-square)](https://github.com/Codingnaveen46/nodemonk/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-zero_dependencies-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Codingnaveen46/nodemonk)
+[![MCP](https://img.shields.io/badge/MCP-server_included-6E56CF?style=flat-square)](https://github.com/Codingnaveen46/nodemonk#5-agent-integration-mcp-server)
+
+- **Pure standard-library Python** - no NumPy, SciPy or C bindings, installs anywhere instantly
+- **No artificial limits** - visualize 100k+ nodes, run unlimited queries and full-depth traversals
+- **Graph analytics built in** - Louvain communities, PageRank hubs, cycle and bridge detection
+- **Works with your AI agent** - one-command install for Claude Code, Codex, Cursor, Copilot and more, plus an MCP server
+- **Exports everywhere** - JSON, HTML, SVG, DOT, GraphML, Neo4j Cypher and Obsidian vaults
+- **React 19 explorer** - interactive force graph, path finder and query console
+
+```bash
+python3 -m nodemonk build .      # build the graph
+python3 -m nodemonk serve        # open the explorer at http://127.0.0.1:7740
+```
+
+⭐ **[Star it](https://github.com/Codingnaveen46/nodemonk)** if it helps you, and check [CONTRIBUTING.md](https://github.com/Codingnaveen46/nodemonk/blob/main/CONTRIBUTING.md) to get involved.
+
+</td>
+</tr>
+</table>
 
 ## About Me 💫
-- 🌱 I'm a **Software Development Engineer In Test** and constantly enhancing my **DSA** skills
-- 💻 I enjoy development with **React** and exploring new **QA automation** frameworks
-- 🐧 Ubuntu user who loves discovering new Linux commands and terminal tricks
-- 🎮 When not coding, you'll find me playing BGMI or exploring tech tutorials
-- 🚀 I believe in continuous learning and staying ahead of emerging technologies
-- 👨‍💻 Always open to collaborate on innovative projects and automation solutions
+
+I'm a **Software Engineer** from Bangalore who builds tools that make engineers faster.
+I enjoy turning messy, manual work into clean, automated systems, from AI-powered apps to open source developer tooling.
+
+- 🧠 **Open source creator** - building [**nodemonk**](https://github.com/Codingnaveen46/nodemonk), a zero-dependency engine that turns codebases into queryable knowledge graphs for humans and AI agents
+- 🤖 **AI engineering** - RAG pipelines, LLM-powered apps and MCP integrations with **FastAPI**, **pgvector** and **Ollama**
+- 💻 **Full-stack development** - **TypeScript**, **React**, **Next.js**, **Node.js** and **Python**
+- ⚙️ **Automation and DevOps** - CI/CD with **Jenkins**, **Docker** and **AWS**, plus end-to-end automation with **Playwright**
+- 📚 **Always learning** - sharpening **DSA** regularly on [LeetCode](https://leetcode.com/u/coding_naveen/)
+- 🐧 **Linux at heart** - Ubuntu user who lives in the terminal
+- 🤝 **Let's collaborate** - open to work on developer tools, AI products and open source
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithnaveen_46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveenreddy64/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thynqerai?si=D9-1iTmmt4YSR9_k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenreddy4411@gmail.com) 
-  
-    
-## 📊 GitHub Stats:    
-    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenreddy64/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thynqerai) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/coding_naveen/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithnaveen_46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenreddy4411@gmail.com)
+
+## 📊 GitHub Stats:
+
 <div align="left">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codingnaveen46&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codingnaveen46&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codingnaveen46&theme=radical">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingnaveen46&layout=compact&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Codingnaveen46&theme=radical&utcOffset=8">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Codingnaveen46&theme=radical&utcOffset=5.5">
 </div>
 
 <div align="left">
-  <img height="169em" width="400px" src="https://github-readme-stats-chi-eight-35.vercel.app/api?username=Codingnaveen46&count_private=true&include_all_commits=true&cache_seconds=01&theme=radical&show_icons=true&hide_border=true&v=2&ts=1690000000">
+<img height="169em" width="400px" src="https://github-readme-stats-chi-eight-35.vercel.app/api?username=Codingnaveen46&count_private=true&include_all_commits=true&cache_seconds=01&theme=radical&show_icons=true&hide_border=true&v=2&ts=1690000000">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Codingnaveen46&theme=radical">
 </div>
 
-# 🏆 Trophies 
+# 🏆 Trophies
 
 <div align="left">
 <img src="https://github-trophies.vercel.app/?username=Codingnaveen46&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-<!-- ## :zap: My LeetCode Stats 📊
-<h3 align="left">Leetcode Stats:</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/coding_naveen?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
-    </td> 
-  </tr>
-</table>
--->
+## 🧩 More Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/>
+| Project | What it is | Stack |
+|---|---|---|
+| [Rag_model](https://github.com/Codingnaveen46/Rag_model) | Retrieval-augmented generation backend with document ingestion, hybrid search and streaming answers from local models | FastAPI, Supabase pgvector, Ollama |
+| [PRD_Generator](https://github.com/Codingnaveen46/PRD_Generator) | AI platform that analyzes PDF, Markdown and Word requirement docs and turns them into standardized PRDs | TypeScript, Hugging Face |
 
-# 📜 Certification 
-<!-- Certification -->
-<div align="left">
-  <table>
-    <tr>
-       <td align="center" style="padding: 10px; border-radius: 10px;">
-        <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/zDPzgrQvRJuajxFbbmXUiw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zDPzgrQvRJuajxFbbmXUiw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals </p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;"> <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fbadgr.com%2Fpublic%2Fassertions%2FzDPzgrQvRJuajxFbbmXUiw" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;" aria-label="Verify (opens in new window)">VERIFY</a></blockquote>
-      </td>
-      <td align="center">
-        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" width="120" height="120">
-        <br><strong>Relational Database</strong>
-        <br><strong>freeCodeCamp</strong>
-        <br><a href="https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/relational-database-v8">VERIFY</a>
-      </td>
-      <td align="center">
-        <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" width="120" height="120">
-        <br><strong>JavaScript Algorithms</strong>
-        <br><strong>freeCodeCamp</strong>
-        <br><a href="https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/javascript-algorithms-and-data-structures">VERIFY</a>
-      </td>
-           <td align="center">
-  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="120" height="120">
-  <br><strong>JavaScript</strong>
-  <br><strong>HackerRank</strong>
-  <br><a href="https://www.hackerrank.com/certificates/6f7a50949021">VERIFY</a>
-</td>  
+## 📜 Certifications
 
-<td align="center">
-  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="120" height="120">
-  <br><strong>Problem Solving </strong>
-  <br><strong>HackerRank</strong>
-  <br><a href="https://www.hackerrank.com/certificates/4517f7d5896d">VERIFY</a>
-</td>
-    </tr>     
+[![Postman API Fundamentals](https://img.shields.io/badge/Postman-API_Fundamentals-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://badgr.com/public/assertions/zDPzgrQvRJuajxFbbmXUiw)
+[![freeCodeCamp Relational Database](https://img.shields.io/badge/freeCodeCamp-Relational_Database-2A7AE2?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/relational-database-v8)
+[![freeCodeCamp JavaScript Algorithms](https://img.shields.io/badge/freeCodeCamp-JS_Algorithms_%26_DS-2A7AE2?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/fcc33f8f744-0355-41ae-8b1f-f6117f9eda4a/javascript-algorithms-and-data-structures)
+[![HackerRank JavaScript](https://img.shields.io/badge/HackerRank-JavaScript-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/6f7a50949021)
+[![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/4517f7d5896d)
 
-  </table>
-</div>
-
-
-<!-- ## 💻 Tech Stack ⚡ -->
 ## 💻 Tech Stack ⚡
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-</div>
+**Languages and frameworks**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,fastapi,tailwind,html,css&theme=dark" alt="Languages and frameworks" />
+</p>
+
+**Data, cloud and DevOps**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,aws,jenkins,git,github,linux,bash&theme=dark" alt="Data, cloud and DevOps" />
+</p>
+
+**Automation and tools**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=selenium,postman,vscode,notion,npm&theme=dark" alt="Automation and tools" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/playwright/playwright-original.svg" alt="Playwright" />
+</p>
 
 <!-- Snake Animation -->
 <div align="left">
-    
-  ![Snake animation](https://github.com/Codingnaveen46/Codingnaveen46/blob/output/github-snake-dark.svg)
-</div>
 
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Codingnaveen46&icon=0&color=6)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/Codingnaveen46/Codingnaveen46/blob/output/github-snake-dark.svg)
 </div>
 
 <h3 align="center">✨ Let's Build Something Awesome Together! ✨</h3>
+<p align="center">If something here is useful to you, a ⭐ or a follow is always appreciated.</p>
